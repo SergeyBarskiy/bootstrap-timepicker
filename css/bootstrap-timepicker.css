@@ -144,3 +144,12 @@
     width: 100%;
   }
 }
+.close-column {
+    width: 20px!important;
+}
+
+.close-column a {
+    margin-top: -15px!important;    
+    padding-top: 0!important;    
+    padding-bottom: 0!important;
+}
